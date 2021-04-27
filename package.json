@@ -1,0 +1,34 @@
+{
+  "name": "twittercrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flexinho19/twittercrawler.git"
+  },
+  "author": "Christian Fink",
+  "license": "ISC",
+  "browserslist": [
+    "last 1 Edge version",
+    "last 1 Chrome version",
+    "last 1 Firefox version"
+  ],
+  "bugs": {
+    "url": "https://github.com/flexinho19/twittercrawler/issues"
+  },
+  "homepage": "https://github.com/flexinho19/twittercrawler#readme",
+  "dependencies": {
+    "@azure/storage-blob": "^12.5.0",
+    "parcel": "^2.0.0-beta.2"
+  },
+  "devDependencies": {
+    "cssnano": "^5.0.1",
+    "postcss": "^8.2.12"
+  }
+}
