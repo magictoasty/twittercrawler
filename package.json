@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexinho19/twittercrawler.git"
+    "url": "git+https://github.com/magictoasty/twittercrawler.git"
   },
   "author": "Christian Fink",
   "license": "ISC",
@@ -20,9 +20,9 @@
     "last 1 Firefox version"
   ],
   "bugs": {
-    "url": "https://github.com/flexinho19/twittercrawler/issues"
+    "url": "https://github.com/magictoasty/twittercrawler/issues"
   },
-  "homepage": "https://github.com/flexinho19/twittercrawler#readme",
+  "homepage": "https://github.com/magictoasty/twittercrawler#readme",
   "dependencies": {
     "@azure/storage-blob": "^12.5.0",
     "parcel": "^2.0.0-beta.2"
